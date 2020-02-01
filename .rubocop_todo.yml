@@ -38,14 +38,6 @@ Layout/IndentHeredoc:
     - 'ext/RMagick/extconf.rb'
     - 'lib/rvg/to_c.rb'
 
-# Offense count: 94
-# Cop supports --auto-correct.
-# Configuration parameters: EnforcedStyle.
-# SupportedTypes: block, case, class, if, kwbegin, module
-# SupportedStyles: same_line, new_line
-Layout/MultilineAssignmentLayout:
-  Enabled: false
-
 # Offense count: 1
 Lint/EmptyWhen:
   Exclude:
